@@ -1,3 +1,8 @@
+#### Name: Paris Geis
+ - Place: Peoria, Illinois, United States
+ - Bio: Computer Science student and game developer at Bradley University
+ - GitHub: [ParisGeis](https://github.com/ParisGeis)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
